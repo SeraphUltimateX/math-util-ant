@@ -68,7 +68,7 @@ public class MathUtilDDTTest {
             {6, 3},
             {24, 4},
             {120, 5},
-            {7720, 6}
+            {720, 6}
         };
     }
 
